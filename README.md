@@ -1,4 +1,4 @@
-# Unity-2D-Conveyor-System
+# Unity 2D Conveyor System
 A simple 2D top down conveyor system asset for use with the Unity Game Engine.
 This asset comes with a default set of sprites and animations, but you can create custom themes to suit your game!
 
